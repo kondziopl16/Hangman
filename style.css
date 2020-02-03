@@ -1,0 +1,94 @@
+
+body
+{
+background-color: #222222;
+color:white;
+}
+
+#naglowek
+{
+padding-top:20px;
+padding-bottom:50px;
+text-align:center;
+}
+
+
+#pojemnik
+{
+width:1200;
+margin-left:auto;
+margin-right:auto;
+}
+
+#haselko
+{
+	width:100%;
+	text-align:center;
+	font-size:40px;
+	margin-top:20px;
+	margin-bottom:20px;
+	letter-spacing:2px;
+	font-family: 'Inconsolata', monospace;
+}
+
+#obraz
+{
+	float:left;
+	margin-left:200px;
+}
+
+
+
+#literki
+{
+	float:left;
+	margin-left:200px;
+	
+}
+
+.ppp
+{
+	width:40px;
+	float:left;
+	display:block;
+	height:40px;
+	border:1px solid white;
+	border-radius:3px;
+	text-align:center;
+	margin:2px;
+	font-size:28px;
+	padding:10px;
+
+}
+
+.ppp:hover
+{
+	cursor:pointer;
+	background-color:#000000;
+	
+}
+
+.reset
+{
+	color:green;
+	cursor: pointer;
+	font-size: 48px;
+}
+
+.reset:hover
+{
+	color:white;
+}
+
+#grafika
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+
+#lolek
+{
+	width:900px;
+	height:250px;
+}
